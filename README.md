@@ -1,2 +1,2 @@
-# novel.github.io
-A fantasy novel.
+# LOTM-RPG Game Web Page SourceCode
+Just download sourceCode.html
